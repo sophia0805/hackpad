@@ -13,3 +13,4 @@
 
 ## Additional Notes
 - If possible, please print the case in black, the pcb purple, and white keycaps, tysmm
+- white leds
